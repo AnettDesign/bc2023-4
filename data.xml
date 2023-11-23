@@ -1,0 +1,21 @@
+
+
+  <root>
+    <r030>840</r030>
+    <txt>Долар США</txt>
+    <rate>27.75</rate>
+    <cc>USD</cc>
+    <exchangedate>03.05.2021</exchangedate>
+  </root>
+  <root>
+    <!-- Another currency rate entry -->
+  </root>
+  <newRoot>
+    <r030>840</r030>
+    <txt>Долар США</txt>
+    <rate>27.75</rate>
+    <cc>USD</cc>
+    <exchangedate>03.05.2021</exchangedate>
+  </newRoot>
+  <!-- Add more <newRoot> elements or other content here if needed -->
+
